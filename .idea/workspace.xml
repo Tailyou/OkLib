@@ -4,31 +4,25 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cece26a-8b37-48dc-abaf-aa1e754e21ff" name="Default Changelist" comment="20201022">
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom.sha1" afterDir="false" />
+    <list default="true" id="2cece26a-8b37-48dc-abaf-aa1e754e21ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.pom" beforeDir="false" afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.1/commonutil-0.0.1.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commonutil/common.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonutil/common.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -275,20 +269,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
+            <state relative-caret-position="47">
               <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commonutil/common.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -319,8 +313,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -328,8 +322,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+            <state relative-caret-position="212">
+              <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -362,16 +356,16 @@
         <option value="$PROJECT_DIR$/okloginshare/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/okmobilepay/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/commonutil/nexus-push.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/commonutil/build.gradle" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/commonutil/maven-push.gradle" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/commonutil/common.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -380,6 +374,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -390,50 +386,22 @@
             <path>
               <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tailyou" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tailyou" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tailyou" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
-              <item name="commonutil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tailyou" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
-              <item name="commonutil" type="462c0819:PsiDirectoryNode" />
-              <item name="0.0.2" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="commonutil" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -441,7 +409,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/commondialog" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -467,7 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.Tailyou_Lib:commonutil [uploadArchives]">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -665,14 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603372010868</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20201022">
+      <created>1603372601867</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603372601867</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Project" order="1" visible="true" weight="0.35230547" />
+      <window_info id="Project" order="1" visible="true" weight="0.35230547" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
@@ -686,13 +661,13 @@
       <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.39769822" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.3478261" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.7033248" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3478261" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32992327" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Gradle" order="2" visible="true" weight="0.16282421" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.16282421" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
@@ -898,17 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/84b5fe203cd814a6a48fac7902c7b0bf0d455451/builder-3.1.2-sources.jar!/com/android/builder/core/DefaultProductFlavor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1328">
-          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
-          <folding>
-            <element signature="e#5411#5412#0" expanded="true" />
-            <element signature="e#5446#5447#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonutil/commonutil.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -922,6 +886,38 @@
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/84b5fe203cd814a6a48fac7902c7b0bf0d455451/builder-3.1.2-sources.jar!/com/android/builder/core/DefaultProductFlavor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="185" column="20" lean-forward="true" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+          <folding>
+            <element signature="e#5411#5412#0" expanded="true" />
+            <element signature="e#5446#5447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonutil/common.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/commonutil/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -929,31 +925,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="47">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonutil/common.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
