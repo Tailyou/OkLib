@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/whiteLight"
+    android:paddingBottom="@dimen/setting_input_margin_vertical"
+    android:paddingLeft="@dimen/setting_input_margin_horizontal"
+    android:paddingRight="@dimen/setting_input_margin_horizontal"
+    android:paddingTop="@dimen/setting_input_margin_vertical">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/setting_input_height"
+        android:background="@drawable/bg_input_ll_dlg"
+        android:paddingLeft="@dimen/setting_input_padding_horizontal"
+        android:paddingRight="@dimen/setting_input_padding_horizontal"
+        android:textColor="#5a5a5a"
+        android:textCursorDrawable="@drawable/text_cursor_drawable"
+        android:textSize="@dimen/setting_input_text_size"/>
+
+</RelativeLayout>

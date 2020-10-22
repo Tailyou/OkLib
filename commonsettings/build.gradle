@@ -1,0 +1,10 @@
+apply from: './common.gradle'
+
+dependencies {
+    implementation 'com.google.zxing:core:3.2.1'
+    implementation project(':commonadapter')
+    implementation project(':commondialog')
+    implementation project(':commonutil')
+}
+
+//apply from: './nexus-push.gradle'

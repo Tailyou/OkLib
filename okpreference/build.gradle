@@ -1,0 +1,10 @@
+apply from: './common.gradle'
+apply plugin: 'kotlin-android'
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
+    implementation 'com.google.code.gson:gson:2.8.5'
+}
+
+//apply from: './nexus-push.gradle'

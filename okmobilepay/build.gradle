@@ -1,0 +1,9 @@
+apply from: './common.gradle'
+
+dependencies {
+    implementation "com.android.support:appcompat-v7:$support_version"
+    implementation files('libs/alipaySdk-20161009.jar')
+    implementation files('libs/libammsdk.jar')
+}
+
+//apply from: './nexus-push.gradle'

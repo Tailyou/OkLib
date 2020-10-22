@@ -1,0 +1,20 @@
+<resources>
+    <string-array name="settings">
+        <item>自动讲解</item>
+        <item>自动模式</item>
+        <item>感应模式</item>
+        <item>报警模式</item>
+        <item>公众关机</item>
+        <item>节能模式</item>
+        <item>管理员密码</item>
+        <item>服务器设置</item>
+        <item>设备编号</item>
+        <item>工程模式</item>
+        <item>网络设置</item>
+        <item>测试平台</item>
+        <item>版本信息</item>
+        <item>检查更新</item>
+        <item>清除资源</item>
+        <item>下载资源</item>
+    </string-array>
+</resources>

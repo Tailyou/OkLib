@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第三方登录" />
+
+    <Button
+        android:id="@+id/btnWBLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="微博登录" />
+
+    <Button
+        android:id="@+id/btnQQLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="QQ登录" />
+
+    <Button
+        android:id="@+id/btnWXLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="微信登录" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第三方分享" />
+
+    <Button
+        android:id="@+id/btnWBShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-微博" />
+
+    <Button
+        android:id="@+id/btnQQShareFriend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-QQ好友" />
+
+    <Button
+        android:id="@+id/btnQQShareZone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-QQ空间" />
+
+    <Button
+        android:id="@+id/btnWXShareFriend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-微信好友" />
+
+    <Button
+        android:id="@+id/btnWXShareFriendZone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-微信朋友圈" />
+
+    <Button
+        android:id="@+id/btnWXShareFavorite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="doShareLogin"
+        android:text="分享-微信收藏" />
+
+</LinearLayout>
