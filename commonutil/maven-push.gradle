@@ -1,11 +1,23 @@
 apply plugin: 'maven'
 
-uploadArchives {
+/*uploadArchives {
     repositories.mavenDeployer {
         pom.groupId = 'com.tailyou.library'
         pom.artifactId = 'commonutil'
         pom.version = '0.0.1'
         pom.packaging = "aar"
         repository(url: "https://github.com/Tailyou/OkLib/master")
+    }
+}*/
+
+uploadArchives {
+    repositories.mavenDeployer {
+        def mavenLib = file(getProperty('mavenPath'))
+        repository(url: "file://${mavenLib.absolutePath}")
+        pom.project {
+            version android.defaultConfig.versionName
+            groupId GROUDID
+            artifactId ARTIFACTID
+        }
     }
 }
