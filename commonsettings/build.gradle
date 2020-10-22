@@ -7,4 +7,4 @@ dependencies {
     implementation project(':commonutil')
 }
 
-//apply from: './nexus-push.gradle'
+//apply from: './maven-push.gradle'

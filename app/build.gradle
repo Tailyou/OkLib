@@ -47,6 +47,7 @@ dependencies {
     implementation "org.jetbrains.anko:anko-commons:$anko_version"
     implementation 'com.android.support.constraint:constraint-layout:1.1.1'
     implementation 'com.android.support:multidex:1.0.1'
+    //implementation 'com.tailyou.library:commonutil:0.0.1'
     implementation project(':okloginshare')
     implementation project(':commonutil')
 }

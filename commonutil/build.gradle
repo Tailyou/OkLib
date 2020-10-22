@@ -1,2 +1,2 @@
 apply from: './common.gradle'
-apply from: './nexus-push.gradle'
+apply from: './maven-push.gradle'
