@@ -1,1 +1,1 @@
-include ':app', ':commondialog', ':commonutil', ':commonadapter', ':commonsettings', ':commonpush', ':commonplayer', ':okloginshare', ':okmobilepay', ':okpreference', ':commonhttp'
+include ':app', ':commondialog', ':commonutil', ':commonadapter', ':commonpush', ':commonplayer', ':okloginshare', ':okmobilepay', ':okpreference', ':commonhttp'

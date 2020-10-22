@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/commonhttp/commonhttp.iml" filepath="$PROJECT_DIR$/commonhttp/commonhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonplayer/commonplayer.iml" filepath="$PROJECT_DIR$/commonplayer/commonplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonpush/commonpush.iml" filepath="$PROJECT_DIR$/commonpush/commonpush.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonsettings/commonsettings.iml" filepath="$PROJECT_DIR$/commonsettings/commonsettings.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonutil/commonutil.iml" filepath="$PROJECT_DIR$/commonutil/commonutil.iml" />
       <module fileurl="file://$PROJECT_DIR$/okloginshare/okloginshare.iml" filepath="$PROJECT_DIR$/okloginshare/okloginshare.iml" />
       <module fileurl="file://$PROJECT_DIR$/okmobilepay/okmobilepay.iml" filepath="$PROJECT_DIR$/okmobilepay/okmobilepay.iml" />

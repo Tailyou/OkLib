@@ -1,4 +1,5 @@
 apply from: './common.gradle'
+apply from: './maven-push.gradle'
 apply plugin: 'kotlin-android'
 
 dependencies {
@@ -6,4 +7,3 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
 
-//apply from: './nexus-push.gradle'

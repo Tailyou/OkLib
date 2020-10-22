@@ -1,0 +1,13 @@
+apply plugin: 'maven'
+
+uploadArchives {
+    repositories.mavenDeployer {
+        def mavenLib = file(getProperty('mavenPath'))
+        repository(url: "file://${mavenLib.absolutePath}")
+        pom.project {
+            version android.defaultConfig.versionName
+            groupId "com.tailyou.library"
+            artifactId "commonhttp"
+        }
+    }
+}

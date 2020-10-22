@@ -14,7 +14,6 @@
             <option value="$PROJECT_DIR$/commonhttp" />
             <option value="$PROJECT_DIR$/commonplayer" />
             <option value="$PROJECT_DIR$/commonpush" />
-            <option value="$PROJECT_DIR$/commonsettings" />
             <option value="$PROJECT_DIR$/commonutil" />
             <option value="$PROJECT_DIR$/okloginshare" />
             <option value="$PROJECT_DIR$/okmobilepay" />
@@ -22,6 +21,7 @@
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
       </GradleProjectSettings>
     </option>
   </component>

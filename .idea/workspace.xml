@@ -7,23 +7,182 @@
     <list default="true" id="2cece26a-8b37-48dc-abaf-aa1e754e21ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/0.0.2/commonutil-0.0.2.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonadapter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonadapter/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonadapter/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonadapter/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commondialog/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commondialog/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commondialog/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commondialog/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonhttp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonhttp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonhttp/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonhttp/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonplayer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonplayer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonplayer/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonplayer/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonpush/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonpush/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonpush/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/commonpush/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/common.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/commonsettings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/nexus-push.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/AlarmActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/BarcodeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/BaseSettingActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/HDialogCenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/HImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/SettingConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/SettingConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/SettingHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/java/com/hengda/zwf/commonsettings/SettingItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/bg_dialog_sure.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/bg_input_ll_dlg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/bg_input_ll_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/bg_ll_alarm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/btn_num_ok.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/drawable/text_cursor_drawable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/activity_alarm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/activity_barcode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/activity_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/dialog_custom_view_edt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/header_login_setting.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/item_setting_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/layout/item_setting_sub_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_0_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_1_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_2_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_3_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_4_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_5_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_6_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_7_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_8_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_9_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_c_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/btn_ok_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/dialog_divider_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/dialog_sure_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/dialog_sure_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/divider_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_bbxx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_bjms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_cspt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_fwqsz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_gcms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_glymm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_gyms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_gzgj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_jcgx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_jnms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_sbbh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_sczy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_wlsz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_zdjj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_zdms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/ic_setting_zygx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-hdpi/unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_0_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_1_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_2_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_3_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_4_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_5_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_6_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_7_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_8_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_9_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_c_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_ok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/btn_ok_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/dialog_divider_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/dialog_sure_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/dialog_sure_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/divider_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_bbxx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_bjms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_cspt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_fwqsz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_gcms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_glymm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_gyms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_gzgj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_jcgx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_jnms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_sbbh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_sczy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_wlsz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_zdjj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_zdms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/ic_setting_zygx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/mipmap-mdpi/unselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/chinese.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/english.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/french.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/german.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/japanese.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/korean.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/raw/spanish.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values-hdpi/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values-mdpi/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commonsettings/src/main/res/values/style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/okloginshare/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okloginshare/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okloginshare/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okloginshare/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okmobilepay/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okmobilepay/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okmobilepay/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okmobilepay/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okpreference/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okpreference/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/okpreference/nexus-push.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/okpreference/maven-push.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -269,61 +428,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commondialog/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="306">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commonutil/common.gradle">
+        <entry file="file://$PROJECT_DIR$/commonhttp/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commonutil/build.gradle">
+        <entry file="file://$PROJECT_DIR$/commonplayer/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle.properties">
+        <entry file="file://$PROJECT_DIR$/commonpush/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="408">
+              <caret line="12" column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/commonadapter/maven-push.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/okloginshare/maven-push.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="23" column="24" selection-start-line="23" selection-end-line="24" />
+            <state relative-caret-position="408">
+              <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/okmobilepay/maven-push.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/okpreference/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/okpreference/maven-push.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -336,9 +526,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/commonadapter/build.gradle" />
-        <option value="$PROJECT_DIR$/commonhttp/build.gradle" />
-        <option value="$PROJECT_DIR$/commonplayer/build.gradle" />
         <option value="$PROJECT_DIR$/okpreference/common.gradle" />
         <option value="$PROJECT_DIR$/commonadapter/common.gradle" />
         <option value="$PROJECT_DIR$/commonhttp/common.gradle" />
@@ -353,15 +540,31 @@
         <option value="$PROJECT_DIR$/commonplayer/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/commonsettings/build.gradle" />
         <option value="$PROJECT_DIR$/commonsettings/nexus-push.gradle" />
-        <option value="$PROJECT_DIR$/okloginshare/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/okmobilepay/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/commonutil/nexus-push.gradle" />
         <option value="$PROJECT_DIR$/commonutil/build.gradle" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/commonutil/maven-push.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/commonutil/common.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/commonutil/common.gradle" />
+        <option value="$PROJECT_DIR$/okloginshare/nexus-push.gradle" />
+        <option value="$PROJECT_DIR$/okloginshare/build.gradle" />
+        <option value="$PROJECT_DIR$/commonadapter/build.gradle" />
+        <option value="$PROJECT_DIR$/commondialog/build.gradle" />
+        <option value="$PROJECT_DIR$/commonhttp/build.gradle" />
+        <option value="$PROJECT_DIR$/commonplayer/build.gradle" />
+        <option value="$PROJECT_DIR$/commonpush/build.gradle" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/okmobilepay/build.gradle" />
+        <option value="$PROJECT_DIR$/okpreference/build.gradle" />
+        <option value="$PROJECT_DIR$/okpreference/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/okmobilepay/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/commonpush/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/commonplayer/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/commonhttp/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/commondialog/maven-push.gradle" />
+        <option value="$PROJECT_DIR$/commonadapter/maven-push.gradle" />
       </list>
     </option>
   </component>
@@ -382,6 +585,51 @@
             <path>
               <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commonadapter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commondialog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commonhttp" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commonplayer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commonpush" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="commonutil" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="okloginshare" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="okmobilepay" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tailyou_Lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tailyou_Lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="okpreference" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -640,11 +888,19 @@
       <option name="project" value="LOCAL" />
       <updated>1603374746275</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20201022">
+      <created>1603375628636</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603375628636</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" id="Project" order="1" visible="true" weight="0.35230547" />
@@ -677,9 +933,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="20201022" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/commondialog/common.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonhttp/common.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -701,13 +954,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okmobilepay/common.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/okpreference/common.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -722,58 +968,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okpreference/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonadapter/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonadapter/common.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonadapter/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="3" column="69" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commondialog/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commondialog/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonhttp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonhttp/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonplayer/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -784,25 +982,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commonplayer/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonpush/common.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonpush/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commonpush/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/commonsettings/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -812,16 +997,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/commonsettings/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/okloginshare/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/okloginshare/nexus-push.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
@@ -863,16 +1038,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/okmobilepay/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/okmobilepay/nexus-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commonutil/commonutil.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -886,13 +1051,6 @@
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/84b5fe203cd814a6a48fac7902c7b0bf0d455451/builder-3.1.2-sources.jar!/com/android/builder/core/DefaultProductFlavor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -904,10 +1062,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/commonutil/common.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -918,17 +1083,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/okloginshare/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonadapter/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commondialog/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commondialog/common.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonhttp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonplayer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonpush/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="55">
           <caret line="23" column="24" selection-start-line="23" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state>
+          <caret column="64" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okmobilepay/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okmobilepay/common.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okpreference/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okpreference/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okmobilepay/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/okloginshare/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonutil/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="12" column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonpush/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonplayer/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonhttp/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commondialog/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commonadapter/maven-push.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
