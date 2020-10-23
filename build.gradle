@@ -21,7 +21,6 @@ allprojects {
         google()
         jcenter()
         maven { url 'https://jitpack.io' }
-        maven { url 'https://raw.githubusercontent.com/Tailyou/OkLib/master' }
         maven { url "https://dl.bintray.com/thelasterstar/maven/" }
     }
 }

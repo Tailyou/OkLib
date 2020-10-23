@@ -8,46 +8,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cece26a-8b37-48dc-abaf-aa1e754e21ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/1.0/commonutil-1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/commonutil/maven-metadata.xml.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/1.0/okpreference-1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/maven-metadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/maven-metadata.xml.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tailyou/library/okpreference/maven-metadata.xml.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/Tailyou_Lib.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commonadapter/Tailyou_Lib.commonadapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commondialog/Tailyou_Lib.commondialog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commonhttp/Tailyou_Lib.commonhttp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commonplayer/Tailyou_Lib.commonplayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commonpush/Tailyou_Lib.commonpush.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/commonutil/Tailyou_Lib.commonutil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/okloginshare/Tailyou_Lib.okloginshare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/okmobilepay/Tailyou_Lib.okmobilepay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/okpreference/Tailyou_Lib.okpreference.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tailyou_Lib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Tailyou_Lib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/commonhttp/commonhttp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commonhttp/commonhttp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commonpush/commonpush.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commonpush/commonpush.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/okpreference/okpreference.iml" beforeDir="false" afterPath="$PROJECT_DIR$/okpreference/okpreference.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_zhuwenfei_Documents_DevCode_Android_Tailyou_Lib_okloginshare_libs_open_sdk_r5788_lite_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____okloginshare_libs_open_sdk_r5788_lite_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_zhuwenfei_Documents_DevCode_Android_Tailyou_Lib_okloginshare_libs_wechat_sdk_android_without_mta_1_3_4_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____okloginshare_libs_wechat_sdk_android_without_mta_1_3_4_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_zhuwenfei_Documents_DevCode_Android_Tailyou_Lib_okmobilepay_libs_alipaySdk_20161009_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____okmobilepay_libs_alipaySdk_20161009_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_zhuwenfei_Documents_DevCode_Android_Tailyou_Lib_okmobilepay_libs_libammsdk_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____okmobilepay_libs_libammsdk_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_retrofit_retrofit2_rxjava2_adapter_1_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_retrofit_retrofit2_rxjava2_adapter_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_nineoldandroids_library_2_4_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_nineoldandroids_library_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_6_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_6_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_14_9_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_14_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_17_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_9_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_9_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_anko_anko_commons_0_10_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_anko_anko_commons_0_10_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_2_31_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_2_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_31_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_2_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_31_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_2_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +120,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.1.2" />
-    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
+    <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="false" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
@@ -390,12 +387,45 @@
       <option name="project" value="LOCAL" />
       <updated>1603376797977</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20201022">
+      <created>1603459261099</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603459261099</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20201022" />
     <option name="LAST_COMMIT_MESSAGE" value="20201022" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1603459259864">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603459259864" />
+    <state width="1388" height="213" key="GridCell.Tab.0.bottom" timestamp="1603459219651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603459219651" />
+    <state width="1388" height="213" key="GridCell.Tab.0.center" timestamp="1603459219650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603459219650" />
+    <state width="1388" height="213" key="GridCell.Tab.0.left" timestamp="1603459219649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603459219649" />
+    <state width="1388" height="213" key="GridCell.Tab.0.right" timestamp="1603459219651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603459219651" />
+    <state x="220" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603459263670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="111" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603459263670" />
   </component>
   <component name="masterDetails">
     <states>
