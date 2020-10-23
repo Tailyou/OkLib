@@ -3,16 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tailyou_Lib.iml" filepath="$PROJECT_DIR$/Tailyou_Lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonadapter/commonadapter.iml" filepath="$PROJECT_DIR$/commonadapter/commonadapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commondialog/commondialog.iml" filepath="$PROJECT_DIR$/commondialog/commondialog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonhttp/commonhttp.iml" filepath="$PROJECT_DIR$/commonhttp/commonhttp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonplayer/commonplayer.iml" filepath="$PROJECT_DIR$/commonplayer/commonplayer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonpush/commonpush.iml" filepath="$PROJECT_DIR$/commonpush/commonpush.iml" />
-      <module fileurl="file://$PROJECT_DIR$/commonutil/commonutil.iml" filepath="$PROJECT_DIR$/commonutil/commonutil.iml" />
-      <module fileurl="file://$PROJECT_DIR$/okloginshare/okloginshare.iml" filepath="$PROJECT_DIR$/okloginshare/okloginshare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/okmobilepay/okmobilepay.iml" filepath="$PROJECT_DIR$/okmobilepay/okmobilepay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/okpreference/okpreference.iml" filepath="$PROJECT_DIR$/okpreference/okpreference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tailyou_Lib.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tailyou_Lib.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonadapter/Tailyou_Lib.commonadapter.iml" filepath="$PROJECT_DIR$/.idea/modules/commonadapter/Tailyou_Lib.commonadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commondialog/Tailyou_Lib.commondialog.iml" filepath="$PROJECT_DIR$/.idea/modules/commondialog/Tailyou_Lib.commondialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonhttp/Tailyou_Lib.commonhttp.iml" filepath="$PROJECT_DIR$/.idea/modules/commonhttp/Tailyou_Lib.commonhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonplayer/Tailyou_Lib.commonplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/commonplayer/Tailyou_Lib.commonplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonpush/Tailyou_Lib.commonpush.iml" filepath="$PROJECT_DIR$/.idea/modules/commonpush/Tailyou_Lib.commonpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonutil/Tailyou_Lib.commonutil.iml" filepath="$PROJECT_DIR$/.idea/modules/commonutil/Tailyou_Lib.commonutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okloginshare/Tailyou_Lib.okloginshare.iml" filepath="$PROJECT_DIR$/.idea/modules/okloginshare/Tailyou_Lib.okloginshare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okmobilepay/Tailyou_Lib.okmobilepay.iml" filepath="$PROJECT_DIR$/.idea/modules/okmobilepay/Tailyou_Lib.okmobilepay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okpreference/Tailyou_Lib.okpreference.iml" filepath="$PROJECT_DIR$/.idea/modules/okpreference/Tailyou_Lib.okpreference.iml" />
     </modules>
   </component>
 </project>
